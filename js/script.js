@@ -1,5 +1,5 @@
 const  apiKey ={
-    key : '652cc601-9545-4367-80d9-ac685e01be3e'
+    key : 'sua api key'
 };
 
 
